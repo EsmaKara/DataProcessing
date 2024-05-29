@@ -1,5 +1,5 @@
 # DataProcessing
-Data processing using Python with Dilara Top (diilaraa).
+Data processing using Python.
 
 # DataSet:
 You can access the "Internet Advertisements" dataset from Kaggle or UCI Machine Learning Repository.
